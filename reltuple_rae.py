@@ -37,8 +37,6 @@ nfeature = 300
 X1 = np.load("x1_astretestsample_70.npy")
 X2 = np.load("x2_astretestsample_70.npy")
 X3 = np.load("x3_astretestsample_70.npy")
-print("X1 shape = ")
-print(X1.shape)
 
 # dense layer/fully-connected layer
 # x: input berdimensi [batch, input unit]
@@ -83,8 +81,6 @@ def loss(yy, yy_out):
 # fungsi ini digunakan saat training untuk mengambil batch demi batch pada sample
 def gen_batch(x1, x2, x3, batch_size=2):
     num_sample, vector_size = x1.shape
-    #print("x1 shape =")
-    #print(str(x1.shape))
 
     i = 0
     while i <= num_sample - batch_size:
@@ -213,42 +209,4 @@ with tf.Session() as sess:
     print("X1:")
     print(decoded_data_2_part[0])
     print("X2:")
-    print(decoded_data_2_part[1])
-
-    #print("decoded_data_1[0]: ")
-    #print(decoded_data_1[0])
-    #print("_Y1 shape = "+str(_Y1.shape))
-    #print("_Y1 = ")
-    #print(_Y1)
-    #print("_X3 = ")
-    #print(_X3)
-    #print("decoded_data_2[0]: ")
-    #print(decoded_data_2[0])
-
-
-    
-
-    #_Y1, _X3 = tf.split(Y1X3, 2)
-    #decoded_data_1 = sess.run([Y1X3], feed_dict={Y1X3_Out:encoded_data[0]})
-
-    #X1X2_Out = tf.placeholder(shape=[nsample, nfeature*2], dtype=tf.float32)
-    #X1X2 = dense(_Y1, output_unit=nfeature*2, activation_fn=None, scope_name='W2_dense', reuse=True)
-    #_X1, _X2 = tf.split(X1X2, 2)
-
-
-
-
-
-
-    #print("YY2: ")
-    #print(str(YY2))
-
-
-
-
-
-
-
-
-
-
+    print(decoded_data_2_part[1])    
