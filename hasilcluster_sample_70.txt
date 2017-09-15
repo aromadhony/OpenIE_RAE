@@ -1,0 +1,207 @@
+Hasil cluster sample, dengan data berjumlah 70 relation tuple, n_cluster = 10.
+
+********************   K - Means  *******************************
+anggota cluster ke-0
+8-year  sentence        Fort Leavenworth
+month   suspended sentence      February 14 , 2006
+month   suspended sentence      involvement
+Denpasar court  sentenced remaining members     member three members life Bali
+Australian judge        handed sentences        nine males
+team    arrested suspect        suspect
+Hampshire Police        arrested station        England London
+police  made arrests    arrest
+Chirac  face trial      trial
+Jefferson       faces maximum sentence  years
+you     never see faces perpetrators
+bombings        killed several people   people Iraq the past few months
+traitors PER    killed  he
+shooter         killed total    total five people
+Senate  killed similar bill     bill
+They    killed  her strikes head
+gunshots        fired   around 8
+gunmen  fired checkpoint guards guard checkpoint
+they    fire guns       gun
+20-year-old male        opened fire     School
+he      opened fire     school
+Lin Che-hui     received bribes bribe deal project
+passengers      received injuries       injury
+they    received calls  call
+Hughes  received        license convictions
+him     pay fine        fine one cow
+kidnappers      freed   they
+MPAA    sued individuals        individual
+officials       issued  them psychopaths maniacs
+police  issued  8
+He      sued    Acacia Mortgage Corp. 2001
+ED      issued  notice
+case    issued writ     writ writ
+it      goes    trial
+notion  goes    country ethics
+people  going   rain hydroplaning
+Helen Clark     go      Governor-General
+policemen       going   building
+everything      goes    February 10th
+**************************************************************************
+********************   K - Means  *******************************
+anggota cluster ke-1
+Mladic  face extradition        matter
+mass    killings        opponents deportations
+Bosnian Serb troops LOC         killed men      man Bosnian Muslim men boys Bosnian Muslim
+Bosnian Serb troops LOC         killed boys     boy Bosnian Muslim men boys
+Bosnian Serb troops     killed men      man Bosnian Muslim men boys Bosnian Muslim
+Bosnian Serb troops     killed boys     boy Bosnian Muslim men boys
+Omri    received        Israeli
+**************************************************************************
+********************   K - Means  *******************************
+anggota cluster ke-2
+Majid   received death sentence 1988 trials
+British soldiers        serving life sentences  murder life
+Majid   received death sentence sentence 1988 trials death
+**************************************************************************
+********************   K - Means  *******************************
+anggota cluster ke-3
+Swedish prosecutors     released        statement
+Airport         released statement      statement roads airport
+Karzai  released statement      statement killing
+Dr. Lee Sheldon         released statement      statement
+**************************************************************************
+********************   K - Means  *******************************
+anggota cluster ke-4
+people  killed sons     son
+handgun         killing doctor  doctor
+bomb    killed policemen        policeman four policemen
+blast   killed policemen        policeman Four policemen station
+Stephen Griffiths       killed prostitutes      prostitute
+he      killed more women       woman
+police  killed man      man
+attorney        released man    man man
+**************************************************************************
+********************   K - Means  *******************************
+anggota cluster ke-5
+injuries        received        explosion
+**************************************************************************
+********************   K - Means  *******************************
+anggota cluster ke-6
+agents  arrested        Xue
+agents  arrested        Xue November 2007
+police  arrested        Griffiths
+four others     arrested        Denpasar
+**************************************************************************
+********************   K - Means  *******************************
+anggota cluster ke-7
+Mohammed        killed  Karzai
+**************************************************************************
+********************   K - Means  *******************************
+anggota cluster ke-8
+Church of Scientology   issued legal complaints complaint YouTube
+Church of Scientology   issued legal complaints complaint Gawker.com YouTube
+**************************************************************************
+********************   K - Means  *******************************
+anggota cluster ke-9
+post    gone    Odinga
+**************************************************************************
+
+
+
+
+
+************************ Agglomerative ******************************
+anggota cluster ke-0
+Mladic  face extradition        matter
+Swedish prosecutors     released        statement
+Airport         released statement      statement roads airport
+Karzai  released statement      statement killing
+Dr. Lee Sheldon         released statement      statement
+officials       issued  them psychopaths maniacs
+police  issued  8
+ED      issued  notice
+case    issued writ     writ writ
+Church of Scientology   issued legal complaints complaint YouTube
+Church of Scientology   issued legal complaints complaint Gawker.com YouTube
+**************************************************************************
+************************ Agglomerative ******************************
+anggota cluster ke-1
+8-year  sentence        Fort Leavenworth
+month   suspended sentence      February 14 , 2006
+month   suspended sentence      involvement
+Denpasar court  sentenced remaining members     member three members life Bali
+British soldiers        serving life sentences  murder life
+Australian judge        handed sentences        nine males
+Jefferson       faces maximum sentence  years
+you     never see faces perpetrators
+mass    killings        opponents deportations
+Senate  killed similar bill     bill
+they    fire guns       gun
+20-year-old male        opened fire     School
+he      opened fire     school
+Lin Che-hui     received bribes bribe deal project
+they    received calls  call
+Hughes  received        license convictions
+him     pay fine        fine one cow
+MPAA    sued individuals        individual
+He      sued    Acacia Mortgage Corp. 2001
+notion  goes    country ethics
+people  going   rain hydroplaning
+Helen Clark     go      Governor-General
+policemen       going   building
+everything      goes    February 10th
+**************************************************************************
+************************ Agglomerative ******************************
+anggota cluster ke-2
+injuries        received        explosion
+passengers      received injuries       injury
+**************************************************************************
+************************ Agglomerative ******************************
+anggota cluster ke-3
+Mohammed        killed  Karzai
+post    gone    Odinga
+**************************************************************************
+************************ Agglomerative ******************************
+anggota cluster ke-4
+team    arrested suspect        suspect
+police  made arrests    arrest
+people  killed sons     son
+handgun         killing doctor  doctor
+traitors PER    killed  he
+Bosnian Serb troops LOC         killed men      man Bosnian Muslim men boys Bosnian Muslim
+Bosnian Serb troops LOC         killed boys     boy Bosnian Muslim men boys
+Bosnian Serb troops     killed men      man Bosnian Muslim men boys Bosnian Muslim
+Bosnian Serb troops     killed boys     boy Bosnian Muslim men boys
+Stephen Griffiths       killed prostitutes      prostitute
+he      killed more women       woman
+police  killed man      man
+They    killed  her strikes head
+attorney        released man    man man
+**************************************************************************
+************************ Agglomerative ******************************
+anggota cluster ke-5
+Majid   received death sentence 1988 trials
+Chirac  face trial      trial
+Majid   received death sentence sentence 1988 trials death
+it      goes    trial
+**************************************************************************
+************************ Agglomerative ******************************
+anggota cluster ke-6
+police  arrested        Griffiths
+four others     arrested        Denpasar
+Hampshire Police        arrested station        England London
+**************************************************************************
+************************ Agglomerative ******************************
+anggota cluster ke-7
+bombings        killed several people   people Iraq the past few months
+bomb    killed policemen        policeman four policemen
+blast   killed policemen        policeman Four policemen station
+shooter         killed total    total five people
+gunshots        fired   around 8
+gunmen  fired checkpoint guards guard checkpoint
+kidnappers      freed   they
+**************************************************************************
+************************ Agglomerative ******************************
+anggota cluster ke-8
+agents  arrested        Xue
+agents  arrested        Xue November 2007
+**************************************************************************
+************************ Agglomerative ******************************
+anggota cluster ke-9
+Omri    received        Israeli
+**************************************************************************
